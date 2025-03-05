@@ -1,0 +1,23 @@
+[
+    {
+        "Id": 1,
+        "ISBN": "9780743273565",
+        "title": "The Great Gatsby",
+        "author": "Scott Fitzgerald",
+        "publicationYear": 1950
+    },
+    {
+        "Id": 2,
+        "ISBN": "1",
+        "title": "Potato",
+        "author": "Batates Mahrosa",
+        "publicationYear": 2004
+    },
+    {
+        "Id": 3,
+        "ISBN": "123456",
+        "title": "harry potato",
+        "author": "hany salama",
+        "publicationYear": 2020
+    }
+]
